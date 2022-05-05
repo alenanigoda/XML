@@ -1,0 +1,12 @@
+<xml>
+<Issue Title>"Pop-up window does not disappear until the date is not changed"</Issue Title>
+<Issue Type>"Bug"</Issue Type>
+<Priority>"Low"</Priority>
+<Issue Status>"Blocked"</Issue Status>
+<Author>"Nigoda Olena"</Author>
+<Steps1>"Select any dish"</Steps1>
+<Steps2>"Go to the basket"</Steps2>
+<Steps3>"Select a date next to the last delivery date in the menu"</Steps3>
+<Expected result>"The pop-up "Delivery up to 14.11" does not appear"</Expected result>
+<Actual result>"The Pop-up remains until the date is not changed to the suitable one"</Actual result>
+}
